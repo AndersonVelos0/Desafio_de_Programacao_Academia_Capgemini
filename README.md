@@ -1,4 +1,4 @@
-//Author @Anderson_Veloso | XzubimaruX
+//Author @AndersonVelos0 | XzubimaruX
 
 # Desafio de Programação - Capgemine
 
