@@ -16,8 +16,8 @@
 
 * Por ser um programa muito versátil, a linguagem JAVA pode ser executada em qualquer sistema operacional (Linux, Windows, Mac). Contendo respectivas versões nos link's acima. 
 * Feito o download e a instalação de ambos, seu computador estará apto para rodar os códigos elaborados. 
-
 * Para que os programas a seguir sejam executados após a introdução dos dados solicitados, deve-se pressionar o botão "enter" do seu teclado. 
+* Acesse a pasta "CapGemini", logo após entre em "src", feito isso, você terá acesso a três pastas contendo os códigos dos desafios propostos.
 * **Vamos às explicações das questões!**
 
 
